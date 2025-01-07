@@ -26,8 +26,10 @@ Steps
 4. Tested the network by verifying successful communication between devices.
 
 Ref 1: Physical View of the Network
+
 ![image](https://github.com/user-attachments/assets/f649ad04-4cf7-419d-a7e5-beb049c7fcbf)
 
 Ref 2: Logical View of the Network
+
 ![image](https://github.com/user-attachments/assets/2aa496d6-e883-4f53-aa72-52c1cae2c493)
 
