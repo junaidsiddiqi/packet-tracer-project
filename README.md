@@ -1,10 +1,10 @@
-Cisco Packet Tracer Project 
+**Cisco Packet Tracer Project**
 
-Objective
+*Objective*
 
 This project involved completing the Cisco Packet Tracer introductory course to learn how to create and configure a basic network. The course focused on understanding the simulation environment and applying fundamental networking concepts.
 
-Skills Learned
+*Skills Learned*
 
 -Setting up and connecting devices in a simple network topology.
 
@@ -14,11 +14,11 @@ Skills Learned
 
 -Understanding how data flows within a basic network.
 
-Tools Used
+*Tools Used*
 
 Cisco Packet Tracer: For building and simulating network designs.
 
-Steps
+*Steps*
 
 1. Explored the Cisco Packet Tracer interface and its basic tools.
 2. Added devices like PCs, modems, and routers to create a simple network.
